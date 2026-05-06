@@ -34,7 +34,7 @@ The data includes:
    - Create a MySQL database and user.
    - Run the `database.sql` script to create the necessary tables.
 
-4. Configure the database connection in `config.ini`:
+4. Create a `config.ini` file and configure the database connection:
    ```ini
    [database]
    host=your_mysql_host
@@ -42,6 +42,8 @@ The data includes:
    password=your_password
    database=sikumbang
    ```
+
+> `config.ini` tidak disimpan di repository karena tercantum di `.gitignore`. Buat file ini secara lokal sebelum menjalankan scraper.
 
 ## Usage
 
@@ -56,6 +58,12 @@ The scraper will:
 - Send requests to the SIKUMBANG API to fetch housing data page by page.
 - Process the JSON responses into a pandas DataFrame.
 - Insert or update the data in the MySQL database.
+
+## Export Output
+
+- Exported CSV files are saved to the `output/` folder.
+- Contoh file hasil export: `output/sikumbang_tapera_rumah_YYYYMMDD_HHMMSS.csv`.
+- Folder `output/` juga diabaikan oleh `.gitignore`, jadi hasil export tidak akan ikut ke repository.
 
 ## Database Schema
 
