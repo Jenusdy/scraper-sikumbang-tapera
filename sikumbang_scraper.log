@@ -1,0 +1,491 @@
+2026-05-12 23:04:06,729 | INFO | START SCRAPING
+2026-05-12 23:04:08,395 | INFO | SUCCESS | id_lokasi=KLA1320042026T001 | nama=PERUMAHAN ATLANTIC 99 TAHAP II | inserted=0 | duplicate=77
+2026-05-12 23:04:09,992 | INFO | SUCCESS | id_lokasi=BTM0310032026T002 | nama=GIA EDELWEISS 3 | inserted=0 | duplicate=185
+2026-05-12 23:04:10,881 | INFO | SUCCESS | id_lokasi=BTG1120112026T001 | nama=KARANGSARI RESIDENCE | inserted=0 | duplicate=76
+2026-05-12 23:04:12,054 | INFO | SUCCESS | id_lokasi=SNT0820052026T004 | nama=HARJITA LIVING 2 | inserted=0 | duplicate=163
+2026-05-12 23:04:13,373 | INFO | SUCCESS | id_lokasi=MBO0920142026T001 | nama=RAN SHAQUEENA RESIDENT TAHAP IV | inserted=0 | duplicate=104
+2026-05-12 23:04:14,240 | INFO | SUCCESS | id_lokasi=BGL0110042026T002 | nama=BUMI ASA GEMILANG | inserted=0 | duplicate=53
+2026-05-12 23:04:15,321 | INFO | SUCCESS | id_lokasi=PAL0810072026T004 | nama=GRAHA KHAYANGAN HILLS IV | inserted=0 | duplicate=125
+2026-05-12 23:04:16,098 | INFO | SUCCESS | id_lokasi=SGM1220072026T002 | nama=THE HALONA TAMANYELENG | inserted=0 | duplicate=28
+2026-05-12 23:04:16,848 | INFO | SUCCESS | id_lokasi=SGB0120132026T004 | nama=GREEN NARAYA RESIDENCE | inserted=0 | duplicate=32
+2026-05-12 23:04:17,747 | INFO | SUCCESS | id_lokasi=PLI0320152026T001 | nama=Tirta Harmoni | inserted=0 | duplicate=40
+2026-05-12 23:04:18,443 | INFO | SUCCESS | id_lokasi=BTG1320042026T001 | nama=GRIYA KHALISA 3 | inserted=0 | duplicate=0
+2026-05-12 23:04:19,480 | INFO | SUCCESS | id_lokasi=PBU0620032026T001 | nama=Banteng Residence D | inserted=0 | duplicate=113
+2026-05-12 23:04:20,325 | INFO | SUCCESS | id_lokasi=KKA1810032026T002 | nama=ANAIWOI VILLAGE RESIDENCE II | inserted=0 | duplicate=52
+2026-05-12 23:04:21,024 | INFO | SUCCESS | id_lokasi=KDI0410032026T003 | nama=BUKIT MUTIARA ESTATE | inserted=0 | duplicate=5
+2026-05-12 23:04:22,062 | INFO | SUCCESS | id_lokasi=SPT0510082026T004 | nama=WMP9 SUTARTI | inserted=0 | duplicate=108
+2026-05-12 23:04:22,772 | INFO | SUCCESS | id_lokasi=BBS0910152026T001 | nama=Griya Sakinah 2 | inserted=0 | duplicate=3
+2026-05-12 23:04:23,734 | INFO | SUCCESS | id_lokasi=SRY0920062026T009 | nama=CITRA PERMATA 3 | inserted=0 | duplicate=87
+2026-05-12 23:04:24,825 | INFO | SUCCESS | id_lokasi=KLN1520132026T001 | nama=GRIYA ARYALOKA SUKOREJO | inserted=0 | duplicate=149
+2026-05-12 23:04:25,749 | INFO | SUCCESS | id_lokasi=SRG0510082026T001 | nama=ARSOL LAND TAHAP 2 | inserted=0 | duplicate=75
+2026-05-12 23:04:26,534 | INFO | SUCCESS | id_lokasi=SWW0320122026T001 | nama=GRAHA PERINTIS PERMAI II | inserted=0 | duplicate=31
+2026-05-12 23:04:27,500 | INFO | SUCCESS | id_lokasi=PYA0320052026T001 | nama=BTN AIK DAREK INDAH | inserted=0 | duplicate=91
+2026-05-12 23:04:28,199 | INFO | SUCCESS | id_lokasi=KDI0310082026T003 | nama=GRIYA CITRA LEPO-LEPO | inserted=0 | duplicate=5
+2026-05-12 23:04:29,274 | INFO | SUCCESS | id_lokasi=PLG1310052026T001 | nama=GRIIYA TAMAN KAKTUS CLUSTER B | inserted=0 | duplicate=124
+2026-05-12 23:04:30,274 | INFO | SUCCESS | id_lokasi=BYL0920132026T001 | nama=PERMATA CITRA RESIDENCE | inserted=0 | duplicate=110
+2026-05-12 23:04:31,059 | INFO | SUCCESS | id_lokasi=MRS0120052026T001 | nama=GRAND AZKIA ZAMZAM | inserted=0 | duplicate=33
+2026-05-12 23:04:32,009 | INFO | SUCCESS | id_lokasi=BAU0110132026T003 | nama=ERLANGGA MEGA RESIDENCE - BUKIT SULAA | inserted=0 | duplicate=95
+2026-05-12 23:04:32,840 | INFO | SUCCESS | id_lokasi=SKW0410042026T003 | nama=GRAHA STAVIA | inserted=0 | duplicate=43
+2026-05-12 23:04:33,571 | INFO | SUCCESS | id_lokasi=JTH0820082026T001 | nama=Permata Indah 2 | inserted=0 | duplicate=7
+2026-05-12 23:04:34,303 | INFO | SUCCESS | id_lokasi=TGR1120112026T001 | nama=SUKASARI RESIDENCE | inserted=0 | duplicate=2
+2026-05-12 23:04:35,107 | INFO | SUCCESS | id_lokasi=SPT0510082026T005 | nama=WMP HAPPY BARAT | inserted=0 | duplicate=38
+2026-05-12 23:04:35,960 | INFO | SUCCESS | id_lokasi=LMP0420272026T001 | nama=Griya Indah | inserted=0 | duplicate=53
+2026-05-12 23:04:36,887 | INFO | SUCCESS | id_lokasi=BYL0720082026T003 | nama=KALUNA UTAMA RESIDENCE | inserted=0 | duplicate=81
+2026-05-12 23:04:37,633 | INFO | SUCCESS | id_lokasi=GTO0410012026T001 | nama=GRIYA ANUGERAH 1 | inserted=0 | duplicate=23
+2026-05-12 23:04:38,520 | INFO | SUCCESS | id_lokasi=ADL0720192026T002 | nama=BINTANG REGENCY IV | inserted=0 | duplicate=68
+2026-05-12 23:04:39,567 | INFO | SUCCESS | id_lokasi=BSB0610092026T004 | nama=ISABELLA RESIDENCE | inserted=0 | duplicate=90
+2026-05-12 23:04:40,296 | INFO | SUCCESS | id_lokasi=LGS0520092026T002 | nama=AZFAR INDAH 2 | inserted=0 | duplicate=8
+2026-05-12 23:04:41,148 | INFO | SUCCESS | id_lokasi=KKA0410032026T002 | nama=LARUMBALANGI RESIDENCE | inserted=0 | duplicate=57
+2026-05-12 23:04:42,070 | INFO | SUCCESS | id_lokasi=DMK1110142026T002 | nama=GRIYA ANGGREK PERMAI | inserted=0 | duplicate=65
+2026-05-12 23:04:43,128 | INFO | SUCCESS | id_lokasi=LBP2320142026T001 | nama=ROMEBY PEA LESTARI | inserted=0 | duplicate=126
+2026-05-12 23:04:44,413 | INFO | SUCCESS | id_lokasi=SRG0620062026T001 | nama=PURI ALISYA ASRI | inserted=0 | duplicate=197
+2026-05-12 23:04:45,135 | INFO | SUCCESS | id_lokasi=BSB0610092026T003 | nama=GRIYA MUSI | inserted=0 | duplicate=9
+2026-05-12 23:04:46,127 | INFO | SUCCESS | id_lokasi=PBU0210052026T005 | nama=Bukit Sampuraga Baru 3 | inserted=0 | duplicate=90
+2026-05-12 23:04:46,940 | INFO | SUCCESS | id_lokasi=SGM1220072026T003 | nama=NADHIFA LAND | inserted=0 | duplicate=36
+2026-05-12 23:04:47,678 | INFO | SUCCESS | id_lokasi=SKR0120022026T002 | nama=GREEN MANSION FATRIDA/TAHAP 4 | inserted=0 | duplicate=2
+2026-05-12 23:04:48,547 | INFO | SUCCESS | id_lokasi=PMN0110082026T001 | nama=Ayyubi Madani | inserted=0 | duplicate=21
+2026-05-12 23:04:49,748 | INFO | SUCCESS | id_lokasi=KPN2420162026T001 | nama=THE HIGHLAND SINGHASARI RESIDENCE | inserted=0 | duplicate=177
+2026-05-12 23:04:50,582 | INFO | SUCCESS | id_lokasi=SWW0220062026T001 | nama=SINAR BERKAH TINELO | inserted=0 | duplicate=41
+2026-05-12 23:04:51,324 | INFO | SUCCESS | id_lokasi=SNG2020032026T001 | nama=perum Griya Tatar Sunda | inserted=0 | duplicate=21
+2026-05-12 23:04:52,037 | INFO | SUCCESS | id_lokasi=BNR0820092026T001 | nama=Mavilla Bantarwaru 2 | inserted=0 | duplicate=12
+2026-05-12 23:04:52,810 | INFO | SUCCESS | id_lokasi=PLG1610012026T001 | nama=MELODY MAKMUR RESIDENCE | inserted=0 | duplicate=19
+2026-05-12 23:04:53,475 | INFO | SUCCESS | id_lokasi=GTO0310102026T002 | nama=GRAHA ARSY SEJAHTERA 2 | inserted=0 | duplicate=0
+2026-05-12 23:04:54,359 | INFO | SUCCESS | id_lokasi=PLG0810022026T006 | nama=Griya Darul Taqwa | inserted=0 | duplicate=73
+2026-05-12 23:04:55,166 | INFO | SUCCESS | id_lokasi=SDR0310052026T001 | nama=HANIN RESIDENT 142 | inserted=0 | duplicate=43
+2026-05-12 23:04:56,052 | INFO | SUCCESS | id_lokasi=SGB1420082026T003 | nama=PERUMAHAN BANUA INDAH PERMAI CLUSTER PALEM 2 TAHAP 2 | inserted=0 | duplicate=28
+2026-05-12 23:04:57,133 | INFO | SUCCESS | id_lokasi=MKS1010012026T002 | nama=GRAND ALIM RESIDENCE TAHAP III | inserted=0 | duplicate=119
+2026-05-12 23:04:57,979 | INFO | SUCCESS | id_lokasi=BJB0610032026T004 | nama=Montana Sinergia | inserted=0 | duplicate=49
+2026-05-12 23:04:58,753 | INFO | SUCCESS | id_lokasi=CJR0920042026T002 | nama=Grand Savana Residence | inserted=0 | duplicate=40
+2026-05-12 23:04:59,443 | INFO | SUCCESS | id_lokasi=CKR2220042026T001 | nama=KHARISMA CAHAYA RESIDENCE 2 | inserted=0 | duplicate=0
+2026-05-12 23:05:00,294 | INFO | SUCCESS | id_lokasi=MNK1210032026T001 | nama=GRIYA MORI CENDRAWASIH | inserted=0 | duplicate=44
+2026-05-12 23:05:01,144 | INFO | SUCCESS | id_lokasi=STG0120112026T001 | nama=ASTANA SABRANG | inserted=0 | duplicate=50
+2026-05-12 23:05:02,193 | INFO | SUCCESS | id_lokasi=GRT0320022026T001 | nama=Wanaking's Garden | inserted=0 | duplicate=75
+2026-05-12 23:05:03,095 | INFO | SUCCESS | id_lokasi=PKB1010042026T002 | nama=GRIYA SAFIRA RESINDENCE | inserted=0 | duplicate=70
+2026-05-12 23:05:04,254 | INFO | SUCCESS | id_lokasi=KLA0520082026T002 | nama=MISHA RESIDENCE | inserted=0 | duplicate=124
+2026-05-12 23:05:04,964 | INFO | SUCCESS | id_lokasi=KWG0520012026T001 | nama=PURI KOSAMBI 1&2 | inserted=0 | duplicate=1
+2026-05-12 23:05:05,690 | INFO | SUCCESS | id_lokasi=TJB0510032026T003 | nama=CEMERLANG ASRI 21 | inserted=0 | duplicate=8
+2026-05-12 23:05:06,642 | INFO | SUCCESS | id_lokasi=SGM0620062026T001 | nama=Sokkolia Pratama Land | inserted=0 | duplicate=57
+2026-05-12 23:05:07,619 | INFO | SUCCESS | id_lokasi=SBS0120072026T001 | nama=BARUNIA HOMELY TAHAP IV | inserted=0 | duplicate=82
+2026-05-12 23:05:08,347 | INFO | SUCCESS | id_lokasi=PLG1310032026T001 | nama=Kencana Village | inserted=0 | duplicate=0
+2026-05-12 23:05:09,245 | INFO | SUCCESS | id_lokasi=KDI0910012026T001 | nama=BUMI SAMARKAND | inserted=0 | duplicate=73
+2026-05-12 23:05:10,074 | INFO | SUCCESS | id_lokasi=TGL0410052026T001 | nama=Bougenville Permai | inserted=0 | duplicate=47
+2026-05-12 23:05:10,894 | INFO | SUCCESS | id_lokasi=SNT0120212026T001 | nama=PERUMAHAN TUNAS MENDALO | inserted=0 | duplicate=42
+2026-05-12 23:05:11,593 | INFO | SUCCESS | id_lokasi=PLI0320292026T001 | nama=ZIVA TAQWA PABAHANAN | inserted=0 | duplicate=0
+2026-05-12 23:05:12,368 | INFO | SUCCESS | id_lokasi=MTP0520342026T005 | nama=Perumahan Rolanda CRB | inserted=0 | duplicate=10
+2026-05-12 23:05:13,168 | INFO | SUCCESS | id_lokasi=IDM1510072026T001 | nama=Graha Nuansa Indramayu | inserted=0 | duplicate=7
+2026-05-12 23:05:13,914 | INFO | SUCCESS | id_lokasi=GSK1020182026T002 | nama=GRESIK MODERN RESIDENCE | inserted=0 | duplicate=15
+2026-05-12 23:05:14,732 | INFO | SUCCESS | id_lokasi=SNT0820132026T003 | nama=GRIYA INDOCENTER | inserted=0 | duplicate=38
+2026-05-12 23:05:15,515 | INFO | SUCCESS | id_lokasi=MDN1310062026T005 | nama=DELONIX GRIYA MARTUBUNG 3 | inserted=0 | duplicate=30
+2026-05-12 23:05:16,219 | INFO | SUCCESS | id_lokasi=PTK0410012026T001 | nama=NAMIYA RESIDENCE | inserted=0 | duplicate=0
+2026-05-12 23:05:16,896 | INFO | SUCCESS | id_lokasi=PGP0510072026T001 | nama=Perumahan Grand Eranes | inserted=0 | duplicate=0
+2026-05-12 23:05:17,588 | INFO | SUCCESS | id_lokasi=SOR1120022026T001 | nama=Ameta Kyoto Residence | inserted=0 | duplicate=0
+2026-05-12 23:05:18,264 | INFO | SUCCESS | id_lokasi=MDN1810092026T001 | nama=ROYAL RESIDENCE TAHAP 2 | inserted=0 | duplicate=0
+2026-05-12 23:05:18,932 | INFO | SUCCESS | id_lokasi=CBI1420092026T001 | nama=PESONA CIBEBER ASRI | inserted=0 | duplicate=0
+2026-05-12 23:05:19,611 | INFO | SUCCESS | id_lokasi=SRG0610032026T001 | nama=Alana Nirwana Residence | inserted=0 | duplicate=0
+2026-05-12 23:05:20,276 | INFO | SUCCESS | id_lokasi=SKH0410032026T001 | nama=Tama Residence Mandan | inserted=0 | duplicate=0
+2026-05-12 23:05:20,981 | INFO | SUCCESS | id_lokasi=SGB1420112026T004 | nama=Romanza Green | inserted=0 | duplicate=0
+2026-05-12 23:05:21,665 | INFO | SUCCESS | id_lokasi=BBS0820112026T001 | nama=TAMAN AMARTHA 5 | inserted=0 | duplicate=0
+2026-05-12 23:05:22,325 | INFO | SUCCESS | id_lokasi=LBP0620012026T003 | nama=THE SCANDI 2 | inserted=0 | duplicate=0
+2026-05-12 23:05:23,013 | INFO | SUCCESS | id_lokasi=PSR1320032026T001 | nama=Bangil Indah Permai 02 | inserted=0 | duplicate=0
+2026-05-12 23:05:23,679 | INFO | SUCCESS | id_lokasi=PAD0910072026T001 | nama=DEHAS II | inserted=0 | duplicate=0
+2026-05-12 23:05:24,390 | INFO | SUCCESS | id_lokasi=LSM0320212026T001 | nama=SURISNA ASRI | inserted=0 | duplicate=0
+2026-05-12 23:05:25,081 | INFO | SUCCESS | id_lokasi=SBY0910012026T002 | nama=EASTERN GROVE | inserted=0 | duplicate=0
+2026-05-12 23:05:25,903 | INFO | SUCCESS | id_lokasi=SMG1410142026T001 | nama=KEDATON PARK TAHAP 3C | inserted=0 | duplicate=0
+2026-05-12 23:05:26,601 | INFO | SUCCESS | id_lokasi=SOR3720212026T001 | nama=Cluster Electra | inserted=0 | duplicate=0
+2026-05-12 23:05:27,281 | INFO | SUCCESS | id_lokasi=SDA1420172026T001 | nama=NADIRA VILLAGE | inserted=0 | duplicate=0
+2026-05-12 23:05:27,928 | INFO | SUCCESS | id_lokasi=LBP0720132026T002 | nama=Eito Banjaran Residency | inserted=0 | duplicate=0
+2026-05-12 23:05:28,654 | INFO | SUCCESS | id_lokasi=BGL0110022026T002 | nama=TAMAN INDAH PERMAI | inserted=0 | duplicate=0
+2026-05-12 23:05:29,405 | INFO | SUCCESS | id_lokasi=KNG1120022026T001 | nama=GENERASILAND CIHIDEUNGHILIR | inserted=0 | duplicate=0
+2026-05-12 23:05:30,063 | INFO | SUCCESS | id_lokasi=LWK2010082026T001 | nama=Royal Regency | inserted=0 | duplicate=0
+2026-05-12 23:05:30,761 | INFO | SUCCESS | id_lokasi=TIM0110092026T001 | nama=GOLDEN CITY RESIDENCE | inserted=0 | duplicate=0
+2026-05-12 23:05:31,429 | INFO | SUCCESS | id_lokasi=PNJ0210032026T001 | nama=D'SISKA VILLAGES ASRI 2 | inserted=0 | duplicate=0
+2026-05-12 23:05:33,247 | INFO | SUCCESS | id_lokasi=IDL0420122026T001 | nama=Ampera Land Premiere | inserted=0 | duplicate=33
+2026-05-12 23:05:33,960 | INFO | SUCCESS | id_lokasi=JNP0310032026T001 | nama=Green Lino Residence 4 | inserted=0 | duplicate=8
+2026-05-12 23:05:35,008 | INFO | SUCCESS | id_lokasi=TPG0210052026T003 | nama=PERUMAHAN DAMAI CITRA LESTARI | inserted=0 | duplicate=114
+2026-05-12 23:05:35,745 | INFO | SUCCESS | id_lokasi=LGS0320072026T001 | nama=CEMARA HIJAU II | inserted=0 | duplicate=12
+2026-05-12 23:05:36,755 | INFO | SUCCESS | id_lokasi=SGB1420082026T001 | nama=BUKIT BALIASE INDAH 6 TAHAP 2 | inserted=0 | duplicate=94
+2026-05-12 23:05:37,455 | INFO | SUCCESS | id_lokasi=NJK1310132026T001 | nama=IRFAI PREMIUM ESTATE | inserted=0 | duplicate=0
+2026-05-12 23:05:38,321 | INFO | SUCCESS | id_lokasi=GRT2220012026T001 | nama=SURYA ALAM CIKAJANG | inserted=0 | duplicate=53
+2026-05-12 23:05:38,985 | INFO | SUCCESS | id_lokasi=STB0120032026T001 | nama=JORENA RESIDANCE X BUNGARA | inserted=0 | duplicate=0
+2026-05-12 23:05:39,816 | INFO | SUCCESS | id_lokasi=PLW0320062026T001 | nama=BERLIAN MODERN RESIDENCE WONOMULYO TAHAP 2 | inserted=0 | duplicate=43
+2026-05-12 23:05:40,590 | INFO | SUCCESS | id_lokasi=PBG0820062026T001 | nama=GINTUNG AGUNG PERMAI | inserted=0 | duplicate=26
+2026-05-12 23:05:41,507 | INFO | SUCCESS | id_lokasi=MKS0910022026T002 | nama=BUMI PANAIKANG MAS TAHAP 3 | inserted=0 | duplicate=59
+2026-05-12 23:05:42,267 | INFO | SUCCESS | id_lokasi=KDI0310012026T002 | nama=BUKIT MEKAR | inserted=0 | duplicate=14
+2026-05-12 23:05:43,556 | INFO | SUCCESS | id_lokasi=GTO0710012026T001 | nama=SAFA MARWAH 14 | inserted=0 | duplicate=197
+2026-05-12 23:05:44,342 | INFO | SUCCESS | id_lokasi=SNG1520042026T001 | nama=GRIYA SUKASENENG | inserted=0 | duplicate=33
+2026-05-12 23:05:45,630 | INFO | SUCCESS | id_lokasi=KPN2220072026T001 | nama=ATLANTIS ICON | inserted=0 | duplicate=196
+2026-05-12 23:05:46,657 | INFO | SUCCESS | id_lokasi=KSN0210042026T001 | nama=MANJAU BAJAYA RESIDENCE | inserted=0 | duplicate=105
+2026-05-12 23:05:47,371 | INFO | SUCCESS | id_lokasi=KGN0510022026T001 | nama=GREEN PADI RESIDENCE | inserted=0 | duplicate=2
+2026-05-12 23:05:48,077 | INFO | SUCCESS | id_lokasi=CKR0520042026T002 | nama=Ruko Astama - Teradamai | inserted=0 | duplicate=1
+2026-05-12 23:05:49,062 | INFO | SUCCESS | id_lokasi=SGM0620042026T001 | nama=PERUMAHAN MARSYA BEVERLY | inserted=0 | duplicate=91
+2026-05-12 23:05:50,035 | INFO | SUCCESS | id_lokasi=JMR1720042026T002 | nama=VILLA AJUNG BUMI ASRI TAHAP II | inserted=0 | duplicate=89
+2026-05-12 23:05:51,508 | INFO | SUCCESS | id_lokasi=SNT0520162026T001 | nama=JAVALAND HARMONY | inserted=0 | duplicate=243
+2026-05-12 23:05:52,310 | INFO | SUCCESS | id_lokasi=KJN1120112026T001 | nama=PURI INDAH MENJANGAN | inserted=0 | duplicate=36
+2026-05-12 23:05:53,137 | INFO | SUCCESS | id_lokasi=PLP0910042026T001 | nama=Griya Bulu Datu Permai 3 | inserted=0 | duplicate=45
+2026-05-12 23:05:53,821 | INFO | SUCCESS | id_lokasi=PLG1610022026T003 | nama=Langgeng Indah Residence Tahap 2 | inserted=0 | duplicate=0
+2026-05-12 23:05:54,571 | INFO | SUCCESS | id_lokasi=SGL0520062026T001 | nama=Perumahan Lepar Asri | inserted=0 | duplicate=14
+2026-05-12 23:05:55,349 | INFO | SUCCESS | id_lokasi=TPG0210042026T002 | nama=EMERALD 1 | inserted=0 | duplicate=32
+2026-05-12 23:05:56,123 | INFO | SUCCESS | id_lokasi=SLW1020012026T001 | nama=ALMESA RESIDENCE KALISAPU | inserted=0 | duplicate=24
+2026-05-12 23:05:56,856 | INFO | SUCCESS | id_lokasi=MTP0510052026T001 | nama=ARWANA RESIDENCE 17-TAHAP.4 | inserted=0 | duplicate=12
+2026-05-12 23:05:57,638 | INFO | SUCCESS | id_lokasi=BBS1420012026T001 | nama=BANGSRI PERMAI TAHAP 2 | inserted=0 | duplicate=35
+2026-05-12 23:05:58,387 | INFO | SUCCESS | id_lokasi=MTP0520512026T003 | nama=BERLIAN ARWANA PERUBAHAN (TAHAP2) | inserted=0 | duplicate=9
+2026-05-12 23:05:59,661 | INFO | SUCCESS | id_lokasi=WTP2110072026T001 | nama=BUMI WALANNAE MAS | inserted=0 | duplicate=200
+2026-05-12 23:06:00,617 | INFO | SUCCESS | id_lokasi=ARM0310092026T001 | nama=PELANGI SUKUR 4 | inserted=0 | duplicate=89
+2026-05-12 23:06:01,509 | INFO | SUCCESS | id_lokasi=KWG2120072026T003 | nama=LEMAH MULYA INDAH 2 | inserted=0 | duplicate=68
+2026-05-12 23:06:02,415 | INFO | SUCCESS | id_lokasi=SGM0710032026T003 | nama=BUMI ANANDA RESIDENCE TAHAP 2 | inserted=0 | duplicate=64
+2026-05-12 23:06:03,245 | INFO | SUCCESS | id_lokasi=PMN0220052026T001 | nama=Perumahan Medina Ampalu Residence | inserted=0 | duplicate=18
+2026-05-12 23:06:03,954 | INFO | SUCCESS | id_lokasi=SGL0210122026T001 | nama=Perumahan Belinyu Residence 2 | inserted=0 | duplicate=8
+2026-05-12 23:06:04,740 | INFO | SUCCESS | id_lokasi=JAP0520032026T001 | nama=WAENA PERMATA RESIDENCE | inserted=0 | duplicate=21
+2026-05-12 23:06:05,673 | INFO | SUCCESS | id_lokasi=SBM3120052026T001 | nama=Taman Bukit Nirwana Tahap IV | inserted=0 | duplicate=84
+2026-05-12 23:06:06,609 | INFO | SUCCESS | id_lokasi=TGR2020042026T001 | nama=GOLDEN VISTA | inserted=0 | duplicate=2
+2026-05-12 23:06:07,487 | INFO | SUCCESS | id_lokasi=SRY0920052026T004 | nama=ISTANA PEMUDA | inserted=0 | duplicate=68
+2026-05-12 23:06:08,265 | INFO | SUCCESS | id_lokasi=KBM1220292026T001 | nama=Griya SBPR 02 Kebumen | inserted=0 | duplicate=20
+2026-05-12 23:06:09,078 | INFO | SUCCESS | id_lokasi=SNT0820052026T002 | nama=ARUNIKA CANDALA 2 | inserted=0 | duplicate=44
+2026-05-12 23:06:09,878 | INFO | SUCCESS | id_lokasi=SGB1420082026T002 | nama=BUKIT BALIASE INDAH 3 TAHAP 5 | inserted=0 | duplicate=36
+2026-05-12 23:06:11,455 | INFO | SUCCESS | id_lokasi=CBI0110082026T001 | nama=TANARUMA | inserted=0 | duplicate=327
+2026-05-12 23:06:12,210 | INFO | SUCCESS | id_lokasi=PSO0220102026T001 | nama=Griya Permata Sultan | inserted=0 | duplicate=9
+2026-05-12 23:06:13,027 | INFO | SUCCESS | id_lokasi=LBP2720092026T002 | nama=PAYA GAMBAR RESIDENCE | inserted=0 | duplicate=25
+2026-05-12 23:06:13,896 | INFO | SUCCESS | id_lokasi=KDL1220012026T001 | nama=Taman Langit | inserted=0 | duplicate=33
+2026-05-12 23:06:14,790 | INFO | SUCCESS | id_lokasi=SGM0710032026T002 | nama=PERUM AMANAH BANOA CITY 2 | inserted=0 | duplicate=0
+2026-05-12 23:06:15,648 | INFO | SUCCESS | id_lokasi=KRG1320032026T003 | nama=SAYEKTI RESIDENCE JATIKUWUNG 3 | inserted=0 | duplicate=55
+2026-05-12 23:06:16,505 | INFO | SUCCESS | id_lokasi=BSB1510052026T001 | nama=GREEN GARDEN LOBAM | inserted=0 | duplicate=54
+2026-05-12 23:06:17,279 | INFO | SUCCESS | id_lokasi=BRB0320112026T001 | nama=PERUMAHAN JASIMAS BERKAH | inserted=0 | duplicate=24
+2026-05-12 23:06:18,226 | INFO | SUCCESS | id_lokasi=SRY0320022026T001 | nama=Melody Garden 2 Tahap 2 | inserted=0 | duplicate=88
+2026-05-12 23:06:19,041 | INFO | SUCCESS | id_lokasi=SNT0520162026T002 | nama=CASA HARMONI | inserted=0 | duplicate=31
+2026-05-12 23:06:19,959 | INFO | SUCCESS | id_lokasi=BIR1320142026T001 | nama=MUBARAKAH RESIDENCE LOKASI IV | inserted=0 | duplicate=12
+2026-05-12 23:06:20,732 | INFO | SUCCESS | id_lokasi=PLG1610022026T004 | nama=Grand Pratama Jaya 3 Tahap 2 | inserted=0 | duplicate=22
+2026-05-12 23:06:22,092 | INFO | SUCCESS | id_lokasi=SMR0110022026T001 | nama=Paras Icon Cluster Paras | inserted=0 | duplicate=231
+2026-05-12 23:06:23,304 | INFO | SUCCESS | id_lokasi=MJL0820182026T001 | nama=Panorama Asri Majalengka Tahap 3 | inserted=0 | duplicate=162
+2026-05-12 23:06:24,174 | INFO | SUCCESS | id_lokasi=BNJ0110092026T001 | nama=SYALICA PAVILION TAHAP 3 | inserted=0 | duplicate=51
+2026-05-12 23:06:25,513 | INFO | SUCCESS | id_lokasi=CKR2120032026T001 | nama=WONDERFUL CIKARANG CITY (BELLAGIO) | inserted=0 | duplicate=210
+2026-05-12 23:06:26,423 | INFO | SUCCESS | id_lokasi=CJR0120042026T001 | nama=Juanda Business Park | inserted=0 | duplicate=76
+2026-05-12 23:06:27,248 | INFO | SUCCESS | id_lokasi=JMB1110022026T001 | nama=Nagamas Regency 2 | inserted=0 | duplicate=42
+2026-05-12 23:06:28,132 | INFO | SUCCESS | id_lokasi=BBS1220102026T001 | nama=ANAYA RESIDENCE | inserted=0 | duplicate=53
+2026-05-12 23:06:29,084 | INFO | SUCCESS | id_lokasi=PRP0120052026T001 | nama=GRIYA PEMATANG TEBIH | inserted=0 | duplicate=99
+2026-05-12 23:06:29,798 | INFO | SUCCESS | id_lokasi=LGS0220072026T001 | nama=KANDEH RESIDENCE 11 | inserted=0 | duplicate=4
+2026-05-12 23:06:30,610 | INFO | SUCCESS | id_lokasi=SGB0120132026T003 | nama=BUANA LAND | inserted=0 | duplicate=28
+2026-05-12 23:06:31,794 | INFO | SUCCESS | id_lokasi=SAG0110042026T001 | nama=Rafi Mahkota Residence | inserted=0 | duplicate=151
+2026-05-12 23:06:32,669 | INFO | SUCCESS | id_lokasi=KDL1120122026T001 | nama=PERUMAHAN MUTIARA INDAH | inserted=0 | duplicate=67
+2026-05-12 23:06:33,574 | INFO | SUCCESS | id_lokasi=SNT0820052026T003 | nama=Dipta Loka Residence | inserted=0 | duplicate=61
+2026-05-12 23:06:34,329 | INFO | SUCCESS | id_lokasi=LBP2420092026T001 | nama=Griya Klambir Sejahtera | inserted=0 | duplicate=14
+2026-05-12 23:06:35,111 | INFO | SUCCESS | id_lokasi=SKB0610032026T001 | nama=GREEN HILL LEMBURSITU | inserted=0 | duplicate=26
+2026-05-12 23:06:36,553 | INFO | SUCCESS | id_lokasi=CMS0320072026T001 | nama=Kota Impian Cijeungjing | inserted=0 | duplicate=260
+2026-05-12 23:06:37,338 | INFO | SUCCESS | id_lokasi=TSM0410072026T001 | nama=Teras Tasik | inserted=0 | duplicate=36
+2026-05-12 23:06:39,118 | INFO | SUCCESS | id_lokasi=CKR1220022026T001 | nama=GRIYA RESTU CIKARANG 2 | inserted=0 | duplicate=381
+2026-05-12 23:06:40,168 | INFO | SUCCESS | id_lokasi=BSB1220032026T002 | nama=MEGINDAH GESEK ASRI | inserted=0 | duplicate=103
+2026-05-12 23:06:40,885 | INFO | SUCCESS | id_lokasi=SBR2420032026T001 | nama=TRUSMILAND ARJAWINANGUN 1 TAHAP 3.2 | inserted=0 | duplicate=1
+2026-05-12 23:06:41,621 | INFO | SUCCESS | id_lokasi=SBR1510032026T001 | nama=RUMAH NINGRAT SUMBER | inserted=0 | duplicate=15
+2026-05-12 23:06:42,667 | INFO | SUCCESS | id_lokasi=GRT2120012026T001 | nama=ISTANA SUKARESMI | inserted=0 | duplicate=60
+2026-05-12 23:06:43,745 | INFO | SUCCESS | id_lokasi=TJS0520032026T001 | nama=PESONA BUKIT INDAH | inserted=0 | duplicate=112
+2026-05-12 23:06:44,605 | INFO | SUCCESS | id_lokasi=PML0810142026T002 | nama=Bale Agung Bojongbata | inserted=0 | duplicate=1
+2026-05-12 23:06:45,527 | INFO | SUCCESS | id_lokasi=MKS1410042026T001 | nama=Cluster Anthura | inserted=0 | duplicate=39
+2026-05-12 23:06:46,243 | INFO | SUCCESS | id_lokasi=KDI0310072026T002 | nama=GRIYA CITRA HOMBIS | inserted=0 | duplicate=5
+2026-05-12 23:06:47,399 | INFO | SUCCESS | id_lokasi=GDT0120122026T003 | nama=Grand Valley Recidence | inserted=0 | duplicate=122
+2026-05-12 23:06:48,137 | INFO | SUCCESS | id_lokasi=KDI0710012026T001 | nama=GRIYA CITRA WUA-WUA RESIDENCE | inserted=0 | duplicate=5
+2026-05-12 23:06:49,027 | INFO | SUCCESS | id_lokasi=SKH0410112026T001 | nama=Perumahan Tama residence dukuh | inserted=0 | duplicate=68
+2026-05-12 23:06:49,730 | INFO | SUCCESS | id_lokasi=MRB1320032026T003 | nama=CITRA GARDEN | inserted=0 | duplicate=0
+2026-05-12 23:06:50,428 | INFO | SUCCESS | id_lokasi=MRB1310012026T001 | nama=CITRA HILLS | inserted=0 | duplicate=0
+2026-05-12 23:06:51,184 | INFO | SUCCESS | id_lokasi=LBB1320012026T001 | nama=MARTHA INDAH PERMAI IV | inserted=0 | duplicate=2
+2026-05-12 23:06:51,896 | INFO | SUCCESS | id_lokasi=STB0120032026T002 | nama=JORENA HILL | inserted=0 | duplicate=0
+2026-05-12 23:06:52,578 | INFO | SUCCESS | id_lokasi=SRG0310082026T001 | nama=Pondok Kalodran Permai 2 | inserted=0 | duplicate=0
+2026-05-12 23:06:53,234 | INFO | SUCCESS | id_lokasi=TNG1110112026R001 | nama=SILKWOOD RESIDENCES - OAK | inserted=0 | duplicate=2
+2026-05-12 23:06:53,987 | INFO | SUCCESS | id_lokasi=BKN1020242026T001 | nama=RUMA'IS KARYA RECIDENCE | inserted=0 | duplicate=0
+2026-05-12 23:06:54,695 | INFO | SUCCESS | id_lokasi=KNR1010082026T001 | nama=VICTORY RESIDENCE | inserted=0 | duplicate=0
+2026-05-12 23:06:55,461 | INFO | SUCCESS | id_lokasi=NPH0920082026T002 | nama=VILLA TAMAN BUNGA | inserted=0 | duplicate=0
+2026-05-12 23:06:56,155 | INFO | SUCCESS | id_lokasi=MRB1320032026T002 | nama=CITRA PREMIER | inserted=0 | duplicate=0
+2026-05-12 23:06:56,857 | INFO | SUCCESS | id_lokasi=MRS0820042026T001 | nama=AMBANI RESIDENZA BANDARA 2 | inserted=0 | duplicate=0
+2026-05-12 23:06:57,521 | INFO | SUCCESS | id_lokasi=KYB0510022026R001 | nama=Apartemen Bukit Golf | inserted=0 | duplicate=4
+2026-05-12 23:06:58,215 | INFO | SUCCESS | id_lokasi=CJR0720082026T001 | nama=SUKASARI REGENCY 2 | inserted=0 | duplicate=0
+2026-05-12 23:06:58,886 | INFO | SUCCESS | id_lokasi=CBI0110102026T001 | nama=THE AWA PHASE 2 | inserted=0 | duplicate=0
+2026-05-12 23:06:59,574 | INFO | SUCCESS | id_lokasi=PBR0810012026T001 | nama=The Benison Residence | inserted=0 | duplicate=0
+2026-05-12 23:07:00,270 | INFO | SUCCESS | id_lokasi=BGR0410082026T001 | nama=Aviary Residence | inserted=0 | duplicate=0
+2026-05-12 23:07:02,784 | INFO | SUCCESS | id_lokasi=PLG1510032026T001 | nama=Belleview kirana hill | inserted=0 | duplicate=211
+2026-05-12 23:07:03,643 | INFO | SUCCESS | id_lokasi=MRD0110132026T001 | nama=GRAHA HKS5 | inserted=0 | duplicate=49
+2026-05-12 23:07:04,389 | INFO | SUCCESS | id_lokasi=SKR0120022026T001 | nama=GRAHA PUDU | inserted=0 | duplicate=20
+2026-05-12 23:07:05,171 | INFO | SUCCESS | id_lokasi=BAU0210072026T001 | nama=GRIYA PUNCAK RESIDENCE | inserted=0 | duplicate=27
+2026-05-12 23:07:05,972 | INFO | SUCCESS | id_lokasi=SGR0620052026T001 | nama=Perumahan Umah Melah Exclusive | inserted=0 | duplicate=36
+2026-05-12 23:07:06,674 | INFO | SUCCESS | id_lokasi=TGR2220092026T002 | nama=Ruko Sorrento Grande East | inserted=0 | duplicate=2
+2026-05-12 23:07:07,536 | INFO | SUCCESS | id_lokasi=MTP0220062026T001 | nama=CLUSTER FADILAH PERDANA | inserted=0 | duplicate=46
+2026-05-12 23:07:08,246 | INFO | SUCCESS | id_lokasi=TGR1120142026T001 | nama=Cluster PASADENA | inserted=0 | duplicate=1
+2026-05-12 23:07:09,039 | INFO | SUCCESS | id_lokasi=SRY0120152026T001 | nama=NUANSA ALAM RESIDENCE 3 | inserted=0 | duplicate=38
+2026-05-12 23:07:10,087 | INFO | SUCCESS | id_lokasi=KLN1520082026T001 | nama=TAMAN MELATI BULAN 2 | inserted=0 | duplicate=111
+2026-05-12 23:07:10,805 | INFO | SUCCESS | id_lokasi=TLK0210252026T003 | nama=CIBRIA TOWN HOUSE TYPE 80 | inserted=0 | duplicate=10
+2026-05-12 23:07:11,922 | INFO | SUCCESS | id_lokasi=KLA1320062026T001 | nama=GRIYA TAQA | inserted=0 | duplicate=135
+2026-05-12 23:07:13,548 | INFO | SUCCESS | id_lokasi=SRH0420022026T001 | nama=PERUMAHAN VILLA SENTOSA 3 | inserted=0 | duplicate=306
+2026-05-12 23:07:14,329 | INFO | SUCCESS | id_lokasi=KDL0820152026T001 | nama=GRAHA YULIANI RESIDENCE MOROREJO | inserted=0 | duplicate=26
+2026-05-12 23:07:15,098 | INFO | SUCCESS | id_lokasi=MRK0110022026T001 | nama=PERUMAHAN PUNCAK MEGA MAS | inserted=0 | duplicate=11
+2026-05-12 23:07:15,890 | INFO | SUCCESS | id_lokasi=PBU0210052026T003 | nama=Maezura Royal Hills | inserted=0 | duplicate=18
+2026-05-12 23:07:17,037 | INFO | SUCCESS | id_lokasi=LBP2320162026T001 | nama=GRAND MUTIARA 3 | inserted=0 | duplicate=147
+2026-05-12 23:07:17,767 | INFO | SUCCESS | id_lokasi=SRY0120032026T002 | nama=VILLA INDAH 2 | inserted=0 | duplicate=18
+2026-05-12 23:07:18,630 | INFO | SUCCESS | id_lokasi=MKD2020032026T001 | nama=Grand Arsya Platinum | inserted=0 | duplicate=56
+2026-05-12 23:07:19,579 | INFO | SUCCESS | id_lokasi=BLA0910182026T001 | nama=BLORA INDAH REGENCY 2 | inserted=0 | duplicate=92
+2026-05-12 23:07:20,497 | INFO | SUCCESS | id_lokasi=SDR0320082026T001 | nama=TanaVilla Buae | inserted=0 | duplicate=79
+2026-05-12 23:07:21,293 | INFO | SUCCESS | id_lokasi=CRP1110062026T001 | nama=GRAND DITE CAWANG | inserted=0 | duplicate=39
+2026-05-12 23:07:22,092 | INFO | SUCCESS | id_lokasi=DMK1110142026T001 | nama=PERUMAHAN ARROHMAN RESIDENCE MANGUNJIWAN 2 | inserted=0 | duplicate=36
+2026-05-12 23:07:22,804 | INFO | SUCCESS | id_lokasi=SMN1220012026T001 | nama=Vimala | inserted=0 | duplicate=3
+2026-05-12 23:07:23,617 | INFO | SUCCESS | id_lokasi=MLG0310062026T001 | nama=Royal Diamond 1 | inserted=0 | duplicate=30
+2026-05-12 23:07:24,507 | INFO | SUCCESS | id_lokasi=PMS0810022026T001 | nama=MANUTUR INDAH SIMARIMBUN | inserted=0 | duplicate=61
+2026-05-12 23:07:25,219 | INFO | SUCCESS | id_lokasi=NPM0220012026T004 | nama=MADYA RESIDENCE 4 | inserted=0 | duplicate=5
+2026-05-12 23:07:25,993 | INFO | SUCCESS | id_lokasi=SKG0610022026T001 | nama=ADRI Garden City | inserted=0 | duplicate=23
+2026-05-12 23:07:26,711 | INFO | SUCCESS | id_lokasi=LSM0120062026T001 | nama=ASTON RESIDENCE | inserted=0 | duplicate=7
+2026-05-12 23:07:27,503 | INFO | SUCCESS | id_lokasi=SDR0510042026T001 | nama=PERUMAHAN GRAND PURI | inserted=0 | duplicate=26
+2026-05-12 23:07:28,362 | INFO | SUCCESS | id_lokasi=BTG1120052026T001 | nama=GRAND CEMARA KECEPAK | inserted=0 | duplicate=58
+2026-05-12 23:07:29,211 | INFO | SUCCESS | id_lokasi=SRY0920062026T007 | nama=MUTIARA GARDEN | inserted=0 | duplicate=48
+2026-05-12 23:07:29,991 | INFO | SUCCESS | id_lokasi=PIN1110032026T001 | nama=FARAH AMANI RESIDENCE | inserted=0 | duplicate=27
+2026-05-12 23:07:30,864 | INFO | SUCCESS | id_lokasi=JMB0910042026T005 | nama=PURI AKBAR ASRI 5 | inserted=0 | duplicate=61
+2026-05-12 23:07:31,961 | INFO | SUCCESS | id_lokasi=KPN2420172026T002 | nama=Bedali Hills | inserted=0 | duplicate=122
+2026-05-12 23:07:33,028 | INFO | SUCCESS | id_lokasi=KDI0410032026T002 | nama=ISTANA CITY 2 | inserted=0 | duplicate=67
+2026-05-12 23:07:33,723 | INFO | SUCCESS | id_lokasi=PSN0210112026T001 | nama=Pesona Candi Permai | inserted=0 | duplicate=1
+2026-05-12 23:07:34,436 | INFO | SUCCESS | id_lokasi=PAD1110032026T001 | nama=DEHAS 1 | inserted=0 | duplicate=1
+2026-05-12 23:07:35,549 | INFO | SUCCESS | id_lokasi=BKN0320092026T005 | nama=PESONA FATHYYAH RIMBO PANJANG 3 | inserted=0 | duplicate=134
+2026-05-12 23:07:36,423 | INFO | SUCCESS | id_lokasi=KWG2120082026T001 | nama=SADJATI ROYAL GARDEN | inserted=0 | duplicate=56
+2026-05-12 23:07:37,356 | INFO | SUCCESS | id_lokasi=BNG0110092026T001 | nama=GRAND WIMAL RESIDENCE | inserted=0 | duplicate=75
+2026-05-12 23:07:38,073 | INFO | SUCCESS | id_lokasi=SBY2710022026T001 | nama=Tierra Soho Avenue dan Tierra Residence | inserted=0 | duplicate=6
+2026-05-12 23:07:39,181 | INFO | SUCCESS | id_lokasi=JMB0910042026T004 | nama=CRYSTAL | inserted=0 | duplicate=123
+2026-05-12 23:07:40,515 | INFO | SUCCESS | id_lokasi=TKA0620032026T001 | nama=ASERA GRAHA 21 | inserted=0 | duplicate=221
+2026-05-12 23:07:41,319 | INFO | SUCCESS | id_lokasi=JMR1910072026T001 | nama=QUEEN CLUSTER AMARIS | inserted=0 | duplicate=25
+2026-05-12 23:07:42,172 | INFO | SUCCESS | id_lokasi=GSK1220082026T001 | nama=MUTIARA ALAM SIDOKUMPUL | inserted=0 | duplicate=40
+2026-05-12 23:07:43,025 | INFO | SUCCESS | id_lokasi=BGL0410022026T004 | nama=GREEN MILENIA 2 | inserted=0 | duplicate=58
+2026-05-12 23:07:43,727 | INFO | SUCCESS | id_lokasi=KJN1320012026T001 | nama=RAYYA VILLAGE | inserted=0 | duplicate=6
+2026-05-12 23:07:44,795 | INFO | SUCCESS | id_lokasi=MJL1020022026T001 | nama=SAWITLAND PATUANAN | inserted=0 | duplicate=113
+2026-05-12 23:07:45,612 | INFO | SUCCESS | id_lokasi=BJB0210062026T003 | nama=AMARA GRANANDA | inserted=0 | duplicate=28
+2026-05-12 23:07:46,615 | INFO | SUCCESS | id_lokasi=MSB0410122026T001 | nama=PERUMAHAN SALULIMBONG PERMAI TAHAP 2 | inserted=0 | duplicate=84
+2026-05-12 23:07:47,298 | INFO | SUCCESS | id_lokasi=LMG2220092026T001 | nama=WAJIK RESIDENCE | inserted=0 | duplicate=1
+2026-05-12 23:07:48,145 | INFO | SUCCESS | id_lokasi=BGL0410032026T001 | nama=PERUMAHAN VEGA RESIDENCE | inserted=0 | duplicate=39
+2026-05-12 23:07:48,973 | INFO | SUCCESS | id_lokasi=KDL0920082026T001 | nama=BRANGSONG PERMAI | inserted=0 | duplicate=34
+2026-05-12 23:07:49,669 | INFO | SUCCESS | id_lokasi=CKR0520022026T001 | nama=Ruko Sentra Niaga Graha Cipta 5 | inserted=0 | duplicate=1
+2026-05-12 23:07:51,223 | INFO | SUCCESS | id_lokasi=BLK0120212026T002 | nama=BUMI POLEWALI MAS 3 | inserted=0 | duplicate=282
+2026-05-12 23:07:52,004 | INFO | SUCCESS | id_lokasi=CBN0310012026T001 | nama=GRAND ASTER PERMATA | inserted=0 | duplicate=23
+2026-05-12 23:07:52,686 | INFO | SUCCESS | id_lokasi=PSN0210032026T001 | nama=PERUMAHAN ALAM ASRI | inserted=0 | duplicate=0
+2026-05-12 23:07:53,516 | INFO | SUCCESS | id_lokasi=LBP2620032026T001 | nama=MULIA ASRI | inserted=0 | duplicate=37
+2026-05-12 23:07:54,624 | INFO | SUCCESS | id_lokasi=LMP0320072026T001 | nama=GRIYA KING II | inserted=0 | duplicate=115
+2026-05-12 23:07:55,410 | INFO | SUCCESS | id_lokasi=SOR2820062026T001 | nama=KRIYA MAHA CITRA | inserted=0 | duplicate=30
+2026-05-12 23:07:56,362 | INFO | SUCCESS | id_lokasi=PWT1920172026T001 | nama=Griya Karangnanas | inserted=0 | duplicate=70
+2026-05-12 23:07:57,722 | INFO | SUCCESS | id_lokasi=PKB1020192026T003 | nama=GRAND SKY HOUSE | inserted=0 | duplicate=214
+2026-05-12 23:07:58,642 | INFO | SUCCESS | id_lokasi=LMJ1620042026T001 | nama=GRIYA SEMERU WONOREJO | inserted=0 | duplicate=62
+2026-05-12 23:07:59,600 | INFO | SUCCESS | id_lokasi=MRD1920122026T001 | nama=PURI INDAH HKS6 | inserted=0 | duplicate=101
+2026-05-12 23:08:00,262 | INFO | SUCCESS | id_lokasi=CPT0410052026T003 | nama=Griya Kedaung Asri | inserted=0 | duplicate=0
+2026-05-12 23:08:01,037 | INFO | SUCCESS | id_lokasi=KPH0420022026T001 | nama=SERUMPUN VALLEY RESIDEN | inserted=0 | duplicate=25
+2026-05-12 23:08:01,958 | INFO | SUCCESS | id_lokasi=BTA1420082026T003 | nama=Latansa 2 | inserted=0 | duplicate=75
+2026-05-12 23:08:02,676 | INFO | SUCCESS | id_lokasi=PLK0310032026T005 | nama=PERUMAHAN RIWUT TARUNG B | inserted=0 | duplicate=5
+2026-05-12 23:08:03,763 | INFO | SUCCESS | id_lokasi=IDL0710162026T001 | nama=Griya Kencana Sejahtera 2 | inserted=0 | duplicate=116
+2026-05-12 23:08:04,552 | INFO | SUCCESS | id_lokasi=SDR0710052026T001 | nama=BUMI GALSER PERMAI IV | inserted=0 | duplicate=26
+2026-05-12 23:08:05,728 | INFO | SUCCESS | id_lokasi=SGB1420092026T001 | nama=GRAHA BIDARA KARAVANA 2 | inserted=0 | duplicate=158
+2026-05-12 23:08:06,695 | INFO | SUCCESS | id_lokasi=SRY0920062026T008 | nama=RH PROPERTY RESIDENCE 6 | inserted=0 | duplicate=95
+2026-05-12 23:08:07,723 | INFO | SUCCESS | id_lokasi=JAP0410042026T004 | nama=BUMI GRAHA YUDISYAH | inserted=0 | duplicate=103
+2026-05-12 23:08:08,426 | INFO | SUCCESS | id_lokasi=NBA0120142026T001 | nama=MAMURAJA TARIGAS | inserted=0 | duplicate=0
+2026-05-12 23:08:09,108 | INFO | SUCCESS | id_lokasi=NPH0820072026T001 | nama=Tatar Pancawarna | inserted=0 | duplicate=1
+2026-05-12 23:08:09,822 | INFO | SUCCESS | id_lokasi=LBP2420102026T001 | nama=SIALANG MUDA RESIDENCE | inserted=0 | duplicate=8
+2026-05-12 23:08:10,690 | INFO | SUCCESS | id_lokasi=BLK0120212026T003 | nama=AZZAHRA DATO TIRO | inserted=0 | duplicate=59
+2026-05-12 23:08:11,608 | INFO | SUCCESS | id_lokasi=PBU0210052026T004 | nama=KHARISMA SAMARI | inserted=0 | duplicate=73
+2026-05-12 23:08:12,519 | INFO | SUCCESS | id_lokasi=CJR0920042026T001 | nama=Tanjungsari Land | inserted=0 | duplicate=76
+2026-05-12 23:08:13,279 | INFO | SUCCESS | id_lokasi=JBG1120152026T001 | nama=Muz Village | inserted=0 | duplicate=16
+2026-05-12 23:08:14,204 | INFO | SUCCESS | id_lokasi=KPN2220032026T001 | nama=PERUMAHAN TIDAR HILLS | inserted=0 | duplicate=80
+2026-05-12 23:08:14,951 | INFO | SUCCESS | id_lokasi=SGM1320082026T001 | nama=D'MATA RESIDENCE | inserted=0 | duplicate=24
+2026-05-12 23:08:15,702 | INFO | SUCCESS | id_lokasi=PMN0220112026T001 | nama=Lintas Manggung Residence | inserted=0 | duplicate=14
+2026-05-12 23:08:16,547 | INFO | SUCCESS | id_lokasi=MRJ0520032026T001 | nama=Anugrah Bungo Pinang II | inserted=0 | duplicate=55
+2026-05-12 23:08:17,264 | INFO | SUCCESS | id_lokasi=SRY0120112026T001 | nama=GRAHA PIXIE | inserted=0 | duplicate=0
+2026-05-12 23:08:18,004 | INFO | SUCCESS | id_lokasi=BKN0320082026T001 | nama=MUTIARA GRAHA KUALU | inserted=0 | duplicate=0
+2026-05-12 23:08:18,772 | INFO | SUCCESS | id_lokasi=BKN0620162026T004 | nama=Madani Residence tahap I | inserted=0 | duplicate=28
+2026-05-12 23:08:19,459 | INFO | SUCCESS | id_lokasi=TSM0210032026T001 | nama=GREEN SYFA RESIDENCE TAHAP 2 | inserted=0 | duplicate=0
+2026-05-12 23:08:20,258 | INFO | SUCCESS | id_lokasi=BLK0120172026T001 | nama=SINAR CAHAYA HAJAR (HJ. HARWATI JABBAR) | inserted=0 | duplicate=33
+2026-05-12 23:08:20,996 | INFO | SUCCESS | id_lokasi=BKN0620162026T005 | nama=Madani Residence tahap II | inserted=0 | duplicate=14
+2026-05-12 23:08:21,715 | INFO | SUCCESS | id_lokasi=BKN0620162026T006 | nama=Madani Residence tahap III | inserted=0 | duplicate=7
+2026-05-12 23:08:22,439 | INFO | SUCCESS | id_lokasi=CBI0520092026T001 | nama=Spring Residence | inserted=0 | duplicate=0
+2026-05-12 23:08:23,171 | INFO | SUCCESS | id_lokasi=CKR2120042026T002 | nama=MUTIARA PURI HARMONI 3 Komersil | inserted=0 | duplicate=17
+2026-05-12 23:08:24,045 | INFO | SUCCESS | id_lokasi=WNS0410052026T001 | nama=PERUMAHAN BUCCELLO PERMAI | inserted=0 | duplicate=0
+2026-05-12 23:08:24,748 | INFO | SUCCESS | id_lokasi=BKO1120012026T001 | nama=ILABIAH RESIDENCE II | inserted=0 | duplicate=0
+2026-05-12 23:08:25,433 | INFO | SUCCESS | id_lokasi=SRY0320052026T003 | nama=GRAND ANDIKA 9 Tahap 3 | inserted=0 | duplicate=0
+2026-05-12 23:08:26,228 | INFO | SUCCESS | id_lokasi=TGR2220032026R001 | nama=APARTEMEN TECH HUB (UPPERWEST) - BSD CITY - SOUTH TOWER | inserted=0 | duplicate=48
+2026-05-12 23:08:26,951 | INFO | SUCCESS | id_lokasi=PLG0910022026T001 | nama=Alpha Townhouse | inserted=0 | duplicate=0
+2026-05-12 23:08:27,623 | INFO | SUCCESS | id_lokasi=GRG0920052026T001 | nama=RAKATA UTTARA | inserted=0 | duplicate=0
+2026-05-12 23:08:29,481 | INFO | SUCCESS | id_lokasi=GGP0510052026T001 | nama=Viona Residence | inserted=0 | duplicate=39
+2026-05-12 23:08:30,489 | INFO | SUCCESS | id_lokasi=NJK1020082026T001 | nama=Griya Permata Sejahtera | inserted=0 | duplicate=70
+2026-05-12 23:08:31,277 | INFO | SUCCESS | id_lokasi=BNJ0310042026T001 | nama=PESONA SAWI II | inserted=0 | duplicate=24
+2026-05-12 23:08:32,022 | INFO | SUCCESS | id_lokasi=KDR0620052026T001 | nama=GREEN WATES RESIDENCE | inserted=0 | duplicate=16
+2026-05-12 23:08:32,970 | INFO | SUCCESS | id_lokasi=MRS0720082026T001 | nama=Aster Regency 3 | inserted=0 | duplicate=94
+2026-05-12 23:08:33,840 | INFO | SUCCESS | id_lokasi=TIM1610022026T001 | nama=Golden Land | inserted=0 | duplicate=64
+2026-05-12 23:08:34,954 | INFO | SUCCESS | id_lokasi=SDR0310032026T001 | nama=DAHLIA RESIDENCE | inserted=0 | duplicate=127
+2026-05-12 23:08:35,748 | INFO | SUCCESS | id_lokasi=SDR0510032026T001 | nama=SAKURA RESIDENCE | inserted=0 | duplicate=25
+2026-05-12 23:08:36,461 | INFO | SUCCESS | id_lokasi=SBW2220052026T001 | nama=ROYAL AMARTA RESIDENCE | inserted=0 | duplicate=2
+2026-05-12 23:08:37,870 | INFO | SUCCESS | id_lokasi=ARM0120092026T001 | nama=BUKIT VIOLA 2 | inserted=0 | duplicate=239
+2026-05-12 23:08:38,868 | INFO | SUCCESS | id_lokasi=KDI0910022026T001 | nama=ANAY RESIDENCE II | inserted=0 | duplicate=90
+2026-05-12 23:08:39,910 | INFO | SUCCESS | id_lokasi=KLA0420012026T001 | nama=PERUMAHAN SINAR SEBIAY RESIDENCE | inserted=0 | duplicate=121
+2026-05-12 23:08:40,661 | INFO | SUCCESS | id_lokasi=BNJ0310062026T001 | nama=HALRA AZZAHRA RESIDENCE | inserted=0 | duplicate=20
+2026-05-12 23:08:41,418 | INFO | SUCCESS | id_lokasi=SKR0120012026T001 | nama=Fatrida Residence | inserted=0 | duplicate=5
+2026-05-12 23:08:42,172 | INFO | SUCCESS | id_lokasi=PBL0110072026T001 | nama=POHSANGIT REGENCY DQ 8 | inserted=0 | duplicate=8
+2026-05-12 23:08:43,738 | INFO | SUCCESS | id_lokasi=PAG0120092026T001 | nama=Kota Impian Pangandaran | inserted=0 | duplicate=304
+2026-05-12 23:08:44,624 | INFO | SUCCESS | id_lokasi=SNT0120222026T006 | nama=PURI SARAZA 1 | inserted=0 | duplicate=53
+2026-05-12 23:08:45,721 | INFO | SUCCESS | id_lokasi=TGR1120072026T001 | nama=GRIYA ASRI SUKAMANAH 1 THP 5 | inserted=0 | duplicate=134
+2026-05-12 23:08:46,664 | INFO | SUCCESS | id_lokasi=LBP2120082026T002 | nama=PERUMAHAN MULTI CIPTA PERMAI TAHAP 4 | inserted=0 | duplicate=83
+2026-05-12 23:08:47,567 | INFO | SUCCESS | id_lokasi=SNT0120222026T007 | nama=PURI HALIM 5 | inserted=0 | duplicate=40
+2026-05-12 23:08:48,377 | INFO | SUCCESS | id_lokasi=CPT0510062026T001 | nama=Countrywoods Heritage | inserted=0 | duplicate=38
+2026-05-12 23:08:49,263 | INFO | SUCCESS | id_lokasi=TJB0510032026T002 | nama=CEMERLANG ASRI 20 | inserted=0 | duplicate=54
+2026-05-12 23:08:50,254 | INFO | SUCCESS | id_lokasi=LBP0420142026T001 | nama=BIKOMI RESIDENCE SUKADANA | inserted=0 | duplicate=92
+2026-05-12 23:08:51,014 | INFO | SUCCESS | id_lokasi=SRY0920072026T002 | nama=PURI AGUNG 1 TAHAP 3 | inserted=0 | duplicate=23
+2026-05-12 23:08:51,745 | INFO | SUCCESS | id_lokasi=LMP0420242026T002 | nama=BINTANG DOLOK ASRI | inserted=0 | duplicate=16
+2026-05-12 23:08:52,736 | INFO | SUCCESS | id_lokasi=KAG0510102026T001 | nama=PERUMAHAN ADITYA RESIDENCE 1 | inserted=0 | duplicate=108
+2026-05-12 23:08:53,677 | INFO | SUCCESS | id_lokasi=SGM0710032026T001 | nama=FAFA LAND | inserted=0 | duplicate=83
+2026-05-12 23:08:54,427 | INFO | SUCCESS | id_lokasi=PBL0110082026T001 | nama=GRIYA IDAMAN BENGAWAN DQ 9 | inserted=0 | duplicate=9
+2026-05-12 23:08:55,357 | INFO | SUCCESS | id_lokasi=CBI0420132026T001 | nama=MEGA SENTUL - DAHLIA | inserted=0 | duplicate=80
+2026-05-12 23:08:56,237 | INFO | SUCCESS | id_lokasi=PBR1010012026T002 | nama=Perumahan Elok Mentangor II | inserted=0 | duplicate=57
+2026-05-12 23:08:57,033 | INFO | SUCCESS | id_lokasi=KKA0410032026T001 | nama=JATAYU PUTRA DEWATA | inserted=0 | duplicate=36
+2026-05-12 23:08:57,838 | INFO | SUCCESS | id_lokasi=PAL0510032026T001 | nama=Taman Ria Estate Tahap VI | inserted=0 | duplicate=26
+2026-05-12 23:08:58,724 | INFO | SUCCESS | id_lokasi=MRK0110162026T001 | nama=SS6 KUPRIK JAYA | inserted=0 | duplicate=39
+2026-05-12 23:08:59,560 | INFO | SUCCESS | id_lokasi=JMB1110032026T001 | nama=BHAKTI CITRA LESTARI | inserted=0 | duplicate=40
+2026-05-12 23:09:00,255 | INFO | SUCCESS | id_lokasi=MAM0110122026T001 | nama=Perumahan BUKIT WISATA KAREMA | inserted=0 | duplicate=5
+2026-05-12 23:09:00,996 | INFO | SUCCESS | id_lokasi=LBT1020102026T001 | nama=RIFKA LESTARI 1 TAHAP 3 | inserted=0 | duplicate=17
+2026-05-12 23:09:01,865 | INFO | SUCCESS | id_lokasi=BJB0210032026T001 | nama=MARITO REGENCY | inserted=0 | duplicate=42
+2026-05-12 23:09:02,885 | INFO | SUCCESS | id_lokasi=PLK0410022026T001 | nama=PESONA BHAYANGKARA CITY | inserted=0 | duplicate=110
+2026-05-12 23:09:05,046 | INFO | SUCCESS | id_lokasi=CKG0810012026T001 | nama=CITRA HOMES HALIM JAKARTA | inserted=0 | duplicate=461
+2026-05-12 23:09:05,889 | INFO | SUCCESS | id_lokasi=SDR0310042026T001 | nama=CINTA RESIDENCE 2 | inserted=0 | duplicate=30
+2026-05-12 23:09:07,014 | INFO | SUCCESS | id_lokasi=SKG1020052026T001 | nama=Pesona Askari Residence | inserted=0 | duplicate=24
+2026-05-12 23:09:07,942 | INFO | SUCCESS | id_lokasi=PBU0220042026T002 | nama=GRAHA SAMPURAGA | inserted=0 | duplicate=54
+2026-05-12 23:09:08,660 | INFO | SUCCESS | id_lokasi=NPM0220012026T003 | nama=MADYA RESIDENCE 5 | inserted=0 | duplicate=5
+2026-05-12 23:09:09,506 | INFO | SUCCESS | id_lokasi=SKY0110102026T001 | nama=GREEN VILLAGE 2 THP 2 | inserted=0 | duplicate=40
+2026-05-12 23:09:10,349 | INFO | SUCCESS | id_lokasi=SRY0920072026T001 | nama=PURI AGUNG 1 TAHAP 4 | inserted=0 | duplicate=45
+2026-05-12 23:09:11,194 | INFO | SUCCESS | id_lokasi=CLP2210032026T001 | nama=MAHKOTA RINJANI | inserted=0 | duplicate=46
+2026-05-12 23:09:12,042 | INFO | SUCCESS | id_lokasi=PLG0710102026T002 | nama=perumahan IKN VISH NAVYA I | inserted=0 | duplicate=33
+2026-05-12 23:09:13,162 | INFO | SUCCESS | id_lokasi=UNR0220022026T001 | nama=Westhom Ampel | inserted=0 | duplicate=47
+2026-05-12 23:09:14,271 | INFO | SUCCESS | id_lokasi=CMS0110022026T001 | nama=GARDEN D'KERTASARI | inserted=0 | duplicate=105
+2026-05-12 23:09:15,042 | INFO | SUCCESS | id_lokasi=SDR0410042026T001 | nama=BUMI SALMAN RESIDENCE 3 | inserted=0 | duplicate=12
+2026-05-12 23:09:15,976 | INFO | SUCCESS | id_lokasi=LBP2720072026T001 | nama=GRAND SEVILLA | inserted=0 | duplicate=47
+2026-05-12 23:09:16,790 | INFO | SUCCESS | id_lokasi=PLG0810022026T003 | nama=GRAND PERMATA RESIDENCE | inserted=0 | duplicate=41
+2026-05-12 23:09:17,487 | INFO | SUCCESS | id_lokasi=NLA0120012026T001 | nama=Perumahan Subsidi Griya Bupolo | inserted=0 | duplicate=0
+2026-05-12 23:09:18,271 | INFO | SUCCESS | id_lokasi=PLG0810022026T004 | nama=GRIYA LEBAK MURNI RESIDENCE | inserted=0 | duplicate=22
+2026-05-12 23:09:18,968 | INFO | SUCCESS | id_lokasi=BKS1010042026T001 | nama=CITRAGRAND CIBUBUR CBD/CITRAGRAND 2 ( CLUSTER ACHILLEA tahap 2) | inserted=0 | duplicate=0
+2026-05-12 23:09:19,689 | INFO | SUCCESS | id_lokasi=CBI0520072026T001 | nama=Centronia Residence | inserted=0 | duplicate=0
+2026-05-12 23:09:20,637 | INFO | SUCCESS | id_lokasi=GTO0310142026T002 | nama=BILAL RESIDENCE | inserted=0 | duplicate=65
+2026-05-12 23:09:21,362 | INFO | SUCCESS | id_lokasi=KDI0310082026T002 | nama=ALAM RAYA HILLS | inserted=0 | duplicate=5
+2026-05-12 23:09:22,222 | INFO | SUCCESS | id_lokasi=BLK0120212026T001 | nama=Sanders Residence II | inserted=0 | duplicate=41
+2026-05-12 23:09:22,953 | INFO | SUCCESS | id_lokasi=PLP0910032026T002 | nama=BINTANG RESIDENDE 2 | inserted=12 | duplicate=0
+2026-05-12 23:09:23,809 | INFO | SUCCESS | id_lokasi=SKH0410132026T002 | nama=PERUMAHAN SAFIRA GREENPARK | inserted=38 | duplicate=0
+2026-05-12 23:09:25,587 | INFO | SUCCESS | id_lokasi=SKY0910162026T001 | nama=RESIDEN HILL | inserted=223 | duplicate=0
+2026-05-12 23:09:26,341 | INFO | SUCCESS | id_lokasi=PNG1710132026T002 | nama=Luminance Dream House | inserted=6 | duplicate=0
+2026-05-12 23:09:27,511 | INFO | SUCCESS | id_lokasi=BTG1320062026T001 | nama=SUDAN RESIDENCE 4 KANDEMAN | inserted=127 | duplicate=0
+2026-05-12 23:09:28,247 | INFO | SUCCESS | id_lokasi=KIS1910112026T002 | nama=ARYA GRAHA 12 | inserted=10 | duplicate=0
+2026-05-12 23:09:28,945 | INFO | SUCCESS | id_lokasi=LBP0520122026T001 | nama=KOTA MANDIRI BEKALA BOULEVARD | inserted=2 | duplicate=0
+2026-05-12 23:09:29,757 | INFO | SUCCESS | id_lokasi=JMB0910042026T003 | nama=VISTA HILL RESIDENCE | inserted=28 | duplicate=0
+2026-05-12 23:09:30,554 | INFO | SUCCESS | id_lokasi=BSB0610092026T002 | nama=KENANGAN JAYA 12 | inserted=18 | duplicate=0
+2026-05-12 23:09:31,489 | INFO | SUCCESS | id_lokasi=SKH0820122026T001 | nama=MADAWA ASRI PLUMBON | inserted=68 | duplicate=0
+2026-05-12 23:09:32,422 | INFO | SUCCESS | id_lokasi=SMD1820072026T001 | nama=BATARAI HILL RESIDENT | inserted=85 | duplicate=0
+2026-05-12 23:09:33,539 | INFO | SUCCESS | id_lokasi=KPN2520032026T001 | nama=GRAHA PESONA LAWANG TAHAP 2 | inserted=128 | duplicate=0
+2026-05-12 23:09:34,338 | INFO | SUCCESS | id_lokasi=PLG0710022026T005 | nama=BINTANG REGENCY | inserted=32 | duplicate=0
+2026-05-12 23:09:35,108 | INFO | SUCCESS | id_lokasi=JAP0420062026T006 | nama=HOLTEKAMP INDAH BLOK A | inserted=23 | duplicate=0
+2026-05-12 23:09:36,024 | INFO | SUCCESS | id_lokasi=SGM1320062026T001 | nama=SPP JE'NEMADINGING LAND TAHAP 2 | inserted=71 | duplicate=0
+2026-05-12 23:09:37,057 | INFO | SUCCESS | id_lokasi=SMG1010022026T001 | nama=Perumahan Pesona Intrasco | inserted=95 | duplicate=0
+2026-05-12 23:09:37,863 | INFO | SUCCESS | id_lokasi=SGB1420112026T003 | nama=PURI TINGGEDE VILLAGE | inserted=34 | duplicate=0
+2026-05-12 23:09:38,584 | INFO | SUCCESS | id_lokasi=PLI0310012026T001 | nama=CITRA NUANSA | inserted=12 | duplicate=0
+2026-05-12 23:09:39,327 | INFO | SUCCESS | id_lokasi=JAP1320022026T001 | nama=PERUMAHAN GRAND EFATA 7D II | inserted=13 | duplicate=0
+2026-05-12 23:09:40,026 | INFO | SUCCESS | id_lokasi=MJK0620132026T001 | nama=ANGGREK MAS REGENCY 3 | inserted=2 | duplicate=0
+2026-05-12 23:09:41,221 | INFO | SUCCESS | id_lokasi=PKB0620142026T003 | nama=GHANIA LAND | inserted=162 | duplicate=0
+2026-05-12 23:09:42,410 | INFO | SUCCESS | id_lokasi=TSM0610072026T001 | nama=MEDINA RESIDENCE BANTARGEDANG | inserted=152 | duplicate=0
+2026-05-12 23:09:43,233 | INFO | SUCCESS | id_lokasi=KDI0410032026T001 | nama=TINGGOLOLI RESIDENCE 2 | inserted=42 | duplicate=0
+2026-05-12 23:09:43,977 | INFO | SUCCESS | id_lokasi=BTG1120032026T001 | nama=GRAND BERLIAN PASEKARAN 2 | inserted=17 | duplicate=0
+2026-05-12 23:09:44,925 | INFO | SUCCESS | id_lokasi=NNK0910012026T001 | nama=GRIYA ANTASARI BARU IV | inserted=77 | duplicate=0
+2026-05-12 23:09:46,011 | INFO | SUCCESS | id_lokasi=PAD1110022026T001 | nama=ASIK JAYA RESIDENCE 4 | inserted=123 | duplicate=0
+2026-05-12 23:09:46,747 | INFO | SUCCESS | id_lokasi=PLG0810022026T005 | nama=GRIYA MUTIARA RESIDENCE 3 TAHAP 2 (10 UNIT) | inserted=10 | duplicate=0
+2026-05-12 23:09:47,653 | INFO | SUCCESS | id_lokasi=LHT3120052026T001 | nama=Perumahan Nadifa Regency | inserted=69 | duplicate=0
+2026-05-12 23:09:48,459 | INFO | SUCCESS | id_lokasi=KDL0720172026T003 | nama=BALE ANTARES 2 | inserted=40 | duplicate=0
+2026-05-12 23:09:49,146 | INFO | SUCCESS | id_lokasi=LMJ1520072026T002 | nama=GRAND ZAMZAM AZURA | inserted=1 | duplicate=0
+2026-05-12 23:09:49,895 | INFO | SUCCESS | id_lokasi=JAP0410042026T003 | nama=ADISLAND RESIDENCE 3 | inserted=22 | duplicate=0
+2026-05-12 23:09:50,606 | INFO | SUCCESS | id_lokasi=LBT0110072026T002 | nama=ARIPURA LESTARI | inserted=0 | duplicate=0
+2026-05-12 23:09:51,312 | INFO | SUCCESS | id_lokasi=MTP0220092026T002 | nama=PERUMAHAN VILLA RAFA | inserted=0 | duplicate=0
+2026-05-12 23:09:51,998 | INFO | SUCCESS | id_lokasi=LBP0620012026T002 | nama=TERAS SAMERA 1 | inserted=0 | duplicate=0
+2026-05-12 23:09:52,723 | INFO | SUCCESS | id_lokasi=SRG0310042026T001 | nama=GRAHA LAND SERANG | inserted=0 | duplicate=0
+2026-05-12 23:09:53,482 | INFO | SUCCESS | id_lokasi=CBI1220072026T001 | nama=KANAKA KAHURIPAN | inserted=0 | duplicate=0
+2026-05-12 23:09:54,165 | INFO | SUCCESS | id_lokasi=MRS0720052026T001 | nama=BENHARD HILLS | inserted=0 | duplicate=0
+2026-05-12 23:09:54,865 | INFO | SUCCESS | id_lokasi=LBP2120042026T001 | nama=Bibury Mansion | inserted=0 | duplicate=0
+2026-05-12 23:09:55,553 | INFO | SUCCESS | id_lokasi=CKR1920012026R002 | nama=Newville | inserted=7 | duplicate=0
+2026-05-12 23:09:56,246 | INFO | SUCCESS | id_lokasi=SGM0610012026T003 | nama=THE AMALIA VIEW | inserted=0 | duplicate=0
+2026-05-12 23:09:56,963 | INFO | SUCCESS | id_lokasi=CKR1920012026R001 | nama=Meikarta | inserted=9 | duplicate=0
+2026-05-12 23:09:58,703 | INFO | SUCCESS | id_lokasi=MKD1020072026T002 | nama=Griya Pesona 2 | inserted=20 | duplicate=0
+2026-05-12 23:09:59,455 | INFO | SUCCESS | id_lokasi=SNT0120222026T004 | nama=JAPANESE REGENCY | inserted=16 | duplicate=0
+2026-05-12 23:10:00,391 | INFO | SUCCESS | id_lokasi=BYW1320132026T001 | nama=AHSANA REGENCY | inserted=81 | duplicate=0
+2026-05-12 23:10:01,331 | INFO | SUCCESS | id_lokasi=PLP0710052026T001 | nama=GREEN DOMMA RESIDENCE | inserted=105 | duplicate=0
+2026-05-12 23:10:02,657 | INFO | SUCCESS | id_lokasi=KPN1620032026T001 | nama=MBR PANDAWA ROYAL RESIDENCE | inserted=220 | duplicate=0
+2026-05-12 23:10:03,832 | INFO | SUCCESS | id_lokasi=SLT0310012026T001 | nama=KOTAKU 3 RESIDENCE | inserted=188 | duplicate=0
+2026-05-12 23:10:04,592 | INFO | SUCCESS | id_lokasi=BKN0620162026T003 | nama=BUMI KUBANG JAYA | inserted=11 | duplicate=0
+2026-05-12 23:10:05,529 | INFO | SUCCESS | id_lokasi=KDR1020072026T001 | nama=Grand Mulia at Gabru | inserted=92 | duplicate=0
+2026-05-12 23:10:06,256 | INFO | SUCCESS | id_lokasi=JPA0620122026T001 | nama=Kamila Residence | inserted=8 | duplicate=0
+2026-05-12 23:10:07,039 | INFO | SUCCESS | id_lokasi=PLG0710102026T001 | nama=GRAND SEJAHTERA | inserted=27 | duplicate=0
+2026-05-12 23:10:07,875 | INFO | SUCCESS | id_lokasi=SOR0820012026T003 | nama=Podomoro Park Bandung (Hinoki dan Hanami) | inserted=44 | duplicate=0
+2026-05-12 23:10:08,856 | INFO | SUCCESS | id_lokasi=KRS1620102026T001 | nama=PAJARAKAN ASRI | inserted=97 | duplicate=0
+2026-05-12 23:10:09,565 | INFO | SUCCESS | id_lokasi=MET0210012026T002 | nama=PERUMAHAN INNOVIA KARANG REJO LANJUTAN | inserted=3 | duplicate=0
+2026-05-12 23:10:10,418 | INFO | SUCCESS | id_lokasi=BJB0610032026T002 | nama=YANNUR RESIDENCE | inserted=52 | duplicate=0
+2026-05-12 23:10:11,284 | INFO | SUCCESS | id_lokasi=PKB0620142026T002 | nama=GRAND BATIQ REGENCY II TAHAP 5 | inserted=69 | duplicate=0
+2026-05-12 23:10:16,002 | INFO | SUCCESS | id_lokasi=CBI0720062026T001 | nama=PESONA KAHURIPAN 12 | inserted=1392 | duplicate=0
+2026-05-12 23:10:17,065 | INFO | SUCCESS | id_lokasi=JAP0320072026T001 | nama=PERMATA INDAH 5 HOLTEKAMP | inserted=131 | duplicate=0
+2026-05-12 23:10:17,798 | INFO | SUCCESS | id_lokasi=TLG0920112026T001 | nama=Rahayu Gondang Permai | inserted=16 | duplicate=0
+2026-05-12 23:10:18,702 | INFO | SUCCESS | id_lokasi=KLA1320072026T001 | nama=Gemilang Land | inserted=86 | duplicate=0
+2026-05-12 23:10:19,490 | INFO | SUCCESS | id_lokasi=SBR1510072026T001 | nama=ALANA VILLAGE PASALAKAN 2 | inserted=33 | duplicate=0
+2026-05-12 23:10:20,275 | INFO | SUCCESS | id_lokasi=PBM0210072026T001 | nama=MAHARDIKA REGENCY 2 | inserted=43 | duplicate=0
+2026-05-12 23:10:21,630 | INFO | SUCCESS | id_lokasi=BTM1110052026T001 | nama=ROLAMRO DWIMA GANDA | inserted=212 | duplicate=0
+2026-05-12 23:10:22,422 | INFO | SUCCESS | id_lokasi=PLP0910032026T001 | nama=SIKOMBONG PANTAI MUTIARA | inserted=17 | duplicate=0
+2026-05-12 23:10:23,236 | INFO | SUCCESS | id_lokasi=LLG0810012026T003 | nama=Merpati Residence | inserted=27 | duplicate=0
+2026-05-12 23:10:24,016 | INFO | SUCCESS | id_lokasi=LBT1020122026T002 | nama=GRIYA AULIA PERMAI 2 BLOK A | inserted=22 | duplicate=0
+2026-05-12 23:10:24,782 | INFO | SUCCESS | id_lokasi=PLW0310012026T001 | nama=Bina Residence Permai Gatot Subroto 2 | inserted=19 | duplicate=0
+2026-05-12 23:10:25,570 | INFO | SUCCESS | id_lokasi=MJY1120022026T001 | nama=Perumahan star regency | inserted=39 | duplicate=0
+2026-05-12 23:10:26,355 | INFO | SUCCESS | id_lokasi=BJM0110082026T001 | nama=DUBAI RESIDENCE | inserted=34 | duplicate=0
+2026-05-12 23:10:27,128 | INFO | SUCCESS | id_lokasi=PBR0710112026T001 | nama=KASTURI GEMPITA RESIDENCE | inserted=21 | duplicate=0
+2026-05-12 23:10:28,083 | INFO | SUCCESS | id_lokasi=MTP1420022026T001 | nama=AJK Residence | inserted=80 | duplicate=0
+2026-05-12 23:10:28,769 | INFO | SUCCESS | id_lokasi=MRS0720042026T001 | nama=Pesona Bandara Regency Cluster Bougenville Baru | inserted=1 | duplicate=0
+2026-05-12 23:10:29,777 | INFO | SUCCESS | id_lokasi=BTG1320012026T001 | nama=PURI CIPTA PERMATA 2 | inserted=105 | duplicate=0
+2026-05-12 23:10:30,644 | INFO | SUCCESS | id_lokasi=PTI1920132026T001 | nama=BUMI TAYU ASRI | inserted=56 | duplicate=0
+2026-05-12 23:10:31,415 | INFO | SUCCESS | id_lokasi=SOR0820022026T001 | nama=AKITA 3 | inserted=28 | duplicate=0
+2026-05-12 23:10:32,297 | INFO | SUCCESS | id_lokasi=PYH0310152026T001 | nama=Saba Land II | inserted=42 | duplicate=0
+2026-05-12 23:10:33,104 | INFO | SUCCESS | id_lokasi=SOR3210012026T001 | nama=KENCANA REGENCY | inserted=40 | duplicate=0
+2026-05-12 23:10:33,854 | INFO | SUCCESS | id_lokasi=BJB0610032026T003 | nama=PONDOK RABBANI 5 | inserted=22 | duplicate=0
+2026-05-12 23:10:34,635 | INFO | SUCCESS | id_lokasi=SDR0210052026T001 | nama=Griya Syanum Residence | inserted=30 | duplicate=0
+2026-05-12 23:10:35,709 | INFO | SUCCESS | id_lokasi=SRG2820122026T001 | nama=Teras bahagia | inserted=124 | duplicate=0
+2026-05-12 23:10:36,548 | INFO | SUCCESS | id_lokasi=SMR0610042026T001 | nama=GRIA MAHAKAM CITY | inserted=45 | duplicate=0
+2026-05-12 23:10:37,449 | INFO | SUCCESS | id_lokasi=BYL1120012026T002 | nama=Griya Swastama Cengklik | inserted=64 | duplicate=0
+2026-05-12 23:10:38,343 | INFO | SUCCESS | id_lokasi=LBP2320102026T001 | nama=GRIYA ALPUKAT ASRI TAHAP 6 | inserted=63 | duplicate=0
+2026-05-12 23:10:39,153 | INFO | SUCCESS | id_lokasi=SDR0710062026T002 | nama=AL JAILANI RESIDENCE | inserted=32 | duplicate=0
+2026-05-12 23:10:40,175 | INFO | SUCCESS | id_lokasi=STG0110042026T001 | nama=Permata Hijau Residence Tahap 2 | inserted=118 | duplicate=0
+2026-05-12 23:10:41,360 | INFO | SUCCESS | id_lokasi=SGM0610012026T002 | nama=BUMI BORONGLOE PERMAI 8 | inserted=164 | duplicate=0
+2026-05-12 23:10:42,182 | INFO | SUCCESS | id_lokasi=SRY0120132026T001 | nama=TEGAR DJAYA | inserted=10 | duplicate=0
+2026-05-12 23:10:43,115 | INFO | SUCCESS | id_lokasi=WTP1420042026T001 | nama=HHM Residence | inserted=80 | duplicate=0
+2026-05-12 23:10:44,076 | INFO | SUCCESS | id_lokasi=CKR1920012026T001 | nama=Cendana Homes CBD | inserted=7 | duplicate=0
+2026-05-12 23:10:44,869 | INFO | SUCCESS | id_lokasi=MTP0520362026T004 | nama=Mahoni Land Tungkaran | inserted=31 | duplicate=0
+2026-05-12 23:10:45,590 | INFO | SUCCESS | id_lokasi=SNG0310062026T001 | nama=CISUGIH GRIYA ASRI | inserted=2 | duplicate=0
+2026-05-12 23:10:46,411 | INFO | SUCCESS | id_lokasi=IDL0420282026T001 | nama=AMPERA LAND TAHAP 2 | inserted=45 | duplicate=0
+2026-05-12 23:10:47,156 | INFO | SUCCESS | id_lokasi=PKK1220062026T001 | nama=Perumahan Agraskara Residence | inserted=14 | duplicate=0
+2026-05-12 23:10:47,862 | INFO | SUCCESS | id_lokasi=MND0810052026T002 | nama=BUHA GOLDEN CITY | inserted=1 | duplicate=0
+2026-05-12 23:10:48,713 | INFO | SUCCESS | id_lokasi=BGL0110042026T001 | nama=GRAND ANDARA 2 | inserted=60 | duplicate=0
+2026-05-12 23:10:49,507 | INFO | SUCCESS | id_lokasi=BNJ0510082026T001 | nama=Shaqila green village | inserted=43 | duplicate=0
+2026-05-12 23:10:50,204 | INFO | SUCCESS | id_lokasi=SKG0610142026T003 | nama=GRAND ZHAFIRA | inserted=0 | duplicate=0
+2026-05-12 23:10:51,275 | INFO | SUCCESS | id_lokasi=MJK1320042026T001 | nama=GRAND KENCANA MOJOKERTO TAHAP 6 | inserted=150 | duplicate=0
+2026-05-12 23:10:52,026 | INFO | SUCCESS | id_lokasi=PLK0310022026T004 | nama=Griya Amanah Tampung Penyang tahap 2 | inserted=17 | duplicate=0
+2026-05-12 23:10:52,835 | INFO | SUCCESS | id_lokasi=BRB0620102026T001 | nama=Perumahan Murakata Muhibbin Tahap 3 | inserted=44 | duplicate=0
+2026-05-12 23:10:53,612 | INFO | SUCCESS | id_lokasi=KDR0210152026T001 | nama=GRAND EMERALD | inserted=23 | duplicate=0
+2026-05-12 23:10:54,809 | INFO | SUCCESS | id_lokasi=SNT0120222026T005 | nama=CITRA SAKINAH | inserted=183 | duplicate=0
+2026-05-12 23:10:56,064 | INFO | SUCCESS | id_lokasi=CBI1120062026T002 | nama=GRHA ARYANA | inserted=233 | duplicate=0
+2026-05-12 23:10:56,885 | INFO | SUCCESS | id_lokasi=PLG0710112026T001 | nama=GREEN AKASIA CAKRAWALA 2 | inserted=45 | duplicate=0
+2026-05-12 23:10:58,179 | INFO | SUCCESS | id_lokasi=SNT0820012026T001 | nama=WIJAYALAND | inserted=216 | duplicate=0
+2026-05-12 23:10:58,954 | INFO | SUCCESS | id_lokasi=PTI1420032026T001 | nama=Green Harmoni Demangan Tlogowungu | inserted=27 | duplicate=0
+2026-05-12 23:10:59,960 | INFO | SUCCESS | id_lokasi=BKS0710072026T001 | nama=ANANTHA HOMES | inserted=105 | duplicate=0
+2026-05-12 23:11:00,769 | INFO | SUCCESS | id_lokasi=PLP0910022026T001 | nama=GREEN BAKAU RESIDENCE | inserted=43 | duplicate=0
+2026-05-12 23:11:01,825 | INFO | SUCCESS | id_lokasi=BGL0110052026T001 | nama=BETUNGAN RESIDENCE | inserted=136 | duplicate=0
+2026-05-12 23:11:02,545 | INFO | SUCCESS | id_lokasi=BTA1420082026T002 | nama=TUBAGUS OGAN PERMAI 2 | inserted=4 | duplicate=0
+2026-05-12 23:11:03,243 | INFO | SUCCESS | id_lokasi=SEL0820082026T001 | nama=PERUMAHAN SUBSIDI AYANA RESIDENCE | inserted=0 | duplicate=0
+2026-05-12 23:11:03,953 | INFO | SUCCESS | id_lokasi=LGS0520072026T001 | nama=GIFARA RESIDENCE TAHAP 2 | inserted=6 | duplicate=0
+2026-05-12 23:11:04,797 | INFO | SUCCESS | id_lokasi=PRE0110042026T002 | nama=Perumahan Griya Annisa | inserted=42 | duplicate=0
+2026-05-12 23:11:05,873 | INFO | SUCCESS | id_lokasi=SGM1220022026T002 | nama=PERUMAHAN PESONA BAROMBONG INDAH CLUSTER BILAIYA | inserted=112 | duplicate=0
+2026-05-12 23:11:06,646 | INFO | SUCCESS | id_lokasi=KIS2010032026T001 | nama=WAHYU ASRI 37 | inserted=16 | duplicate=0
+2026-05-12 23:11:07,962 | INFO | SUCCESS | id_lokasi=NGW0920042026T001 | nama=GAYATRI MAKSOEM VILLAGE 2 | inserted=202 | duplicate=0
+2026-05-12 23:11:08,672 | INFO | SUCCESS | id_lokasi=SRK0420032026T001 | nama=Arasuka Residence | inserted=5 | duplicate=0
+2026-05-12 23:11:09,403 | INFO | SUCCESS | id_lokasi=TGR2320092026T001 | nama=SYMPHONY SERPONG RESIDENCE | inserted=3 | duplicate=0
+2026-05-12 23:11:10,288 | INFO | SUCCESS | id_lokasi=PKB1020192026T002 | nama=KENCANA UTAMA 2 | inserted=55 | duplicate=0
+2026-05-12 23:11:11,446 | INFO | SUCCESS | id_lokasi=SKH0920032026T001 | nama=GRIYA BHINA KARYA PARANGJORO | inserted=127 | duplicate=0
+2026-05-12 23:11:12,323 | INFO | SUCCESS | id_lokasi=SKH0820092026T001 | nama=GRIYA BHINA KARYA JOHO | inserted=54 | duplicate=0
+2026-05-12 23:11:13,146 | INFO | SUCCESS | id_lokasi=TGR1320082026T002 | nama=BMW-VILLA PASIR PUTIH 5 | inserted=0 | duplicate=0
+2026-05-12 23:11:14,007 | INFO | SUCCESS | id_lokasi=JMB0710062026T001 | nama=GRIYA AL FATH | inserted=54 | duplicate=0
+2026-05-12 23:11:14,704 | INFO | SUCCESS | id_lokasi=MTP0220092026T001 | nama=NUR AYSHA 3 | inserted=5 | duplicate=0
+2026-05-12 23:11:15,653 | INFO | SUCCESS | id_lokasi=SDA1320102026T001 | nama=CITRAHARMONI - CLUSTER CAMBRIDGE 3 | inserted=54 | duplicate=0
+2026-05-12 23:11:16,397 | INFO | SUCCESS | id_lokasi=CKG1010062026T001 | nama=Reswara Park | inserted=0 | duplicate=0
+2026-05-12 23:11:17,426 | INFO | SUCCESS | id_lokasi=KPN2320032026T002 | nama=MBR SKYLAND ARJUNA | inserted=109 | duplicate=0
+2026-05-12 23:11:18,408 | INFO | SUCCESS | id_lokasi=KPG0110112026T002 | nama=Blesing Residance | inserted=100 | duplicate=0
+2026-05-12 23:11:19,272 | INFO | SUCCESS | id_lokasi=SPA3620062026T001 | nama=MEDINA RESIDENCE CIAWI | inserted=40 | duplicate=0
+2026-05-12 23:11:20,318 | ERROR | No such comm target registered: jupyter.widget.control
+2026-05-12 23:11:20,320 | WARNING | No such comm: 3cfa6bbb-5dc1-43a3-94e9-51df59de33cd
